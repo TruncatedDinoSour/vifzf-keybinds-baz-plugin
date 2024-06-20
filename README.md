@@ -1,3 +1,4 @@
+# This repository has been migrated to the self-hosted ari-web Forgejo instance: <https://git.ari.lt/ari/vifzf-keybinds-baz-plugin>
 # Baz plugin: vifzf-keybinds-baz-plugin
 
 > Baz plugin for adding vi fzf keybinds
